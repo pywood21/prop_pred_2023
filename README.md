@@ -6,7 +6,9 @@
 
    The convolutional neural network (CNN) was applied in this study to automatically extract the anatomical features of wood for predicting their mechanical properties in the transverse direction. 
 
-  And this repository aims to show the workflow for training regular CNN and density-informed CNN for predicting the modulus of elasticity of wood.
+  And this repository aims to show the workflow for training regular CNN and density-informed CNN for predicting the modulus of elasticity of wood with different orientations of ray parenchyma cell (ORP).
+
+<img title="" src="./fig/Fig.1.jpg" alt="Fig.1.jpg" width="413" data-align="center">
 
   You can find more information in:
 
