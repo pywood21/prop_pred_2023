@@ -12,7 +12,7 @@
 
   You can find more information in:
 
-> Shuoye Chen, Rei Shiina, Kazushi Nakai, Tatsuya Awano, Arata Yoshinaga, Junji Sugiyama,. "Potential of machine learning approaches for predicting mechanical properties of spruce wood in the transverse direction", *Journal of Wood Science*, conditionally accepted, 2023.
+> Shuoye Chen, Rei Shiina, Kazushi Nakai, Tatsuya Awano, Arata Yoshinaga, Junji Sugiyama,. "Potential of machine learning approaches for predicting mechanical properties of spruce wood in the transverse direction", *Journal of Wood Science*, DOI：10.1186/s10086-023-02096-z　(https://rdcu.be/dfl55).
 
 #### 2. What is in this repository?
 
